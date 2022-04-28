@@ -145,3 +145,7 @@ body {
   transform: scalex(-1);
 
 }
+
+.start {
+  background-color: red;
+}
